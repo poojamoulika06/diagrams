@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T14:12:12.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="WiMBJ4kZ7iC88iieuKpU" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T14:18:41.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="OOwgrynUHQ5as_YBWGhL" version="21.6.2" type="github">
   <diagram name="Page-1" id="IjWerqWPmZBtlasoV66V">
     <mxGraphModel dx="1434" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -237,6 +237,27 @@
             <mxPoint x="960" y="1220" as="sourcePoint" />
             <mxPoint x="920" y="1060.36" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XXNCJ_Wn4SwCIZURzr-Y-63" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 46px;&quot;&gt;&lt;u&gt;AWS Cloud&lt;/u&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="300" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XXNCJ_Wn4SwCIZURzr-Y-64" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;Firewall&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="435" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XXNCJ_Wn4SwCIZURzr-Y-65" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;Application Load Balancer&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="449" y="580" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XXNCJ_Wn4SwCIZURzr-Y-66" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot; color=&quot;#0000ff&quot;&gt;Web Servers&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="710" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XXNCJ_Wn4SwCIZURzr-Y-67" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;Application Load Balancer&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="970" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XXNCJ_Wn4SwCIZURzr-Y-68" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot; color=&quot;#0000ff&quot;&gt;App Servers&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="363" y="1120" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XXNCJ_Wn4SwCIZURzr-Y-69" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 20px;&quot; color=&quot;#0000ff&quot;&gt;RDS Aurora MySQL Database&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1400" width="300" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
